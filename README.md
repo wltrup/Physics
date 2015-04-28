@@ -1,5 +1,8 @@
 # Physics
-Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation.
+Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
+
+##### (2014) [Relativity for non-physicists](https://github.com/wltrup/Physics-Relativity-for-non-physicists)
+An essay about light, the appearance of objects, and the theory of relativity, for non-physicists. 
 
 ##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-The-Electrostatic-Potential-Between-Two-Spherical-Conductors)
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres.
