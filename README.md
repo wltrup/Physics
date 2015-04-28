@@ -5,7 +5,7 @@ Here you'll find an assortment of technical essays I've written over the years e
 What is _Second Quantization_ and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory.
 
 ##### (2005) [Some Important Theorems in QM](https://github.com/wltrup/Physics-Some-Important-Theorems-in-QM)
-While helping a friend study for her graduate-level Physics qualification exam, I wrote this essay reviewing some of the fundamental mathematical ideas behind quantum mechanics.
+A review of fundamental notions in linear algebra followed by some applications in Quantum Mechanics, with an emphasis on proving some very important properties of the Hamiltonian operator.
 
 ##### (2005) [Relativistic Motion Under Constant Acceleration](https://github.com/wltrup/Physics-Relativistic-Motion-Under-Constant-Acceleration)
 You're on a spaceship traveling at a comfortable constant acceleration of one g. A staple of science-fiction, solved correctly and in detail.
