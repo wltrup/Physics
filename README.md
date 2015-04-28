@@ -1,6 +1,9 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation.
 
+##### (2005) [Some Important Theorems in QM](https://github.com/wltrup/Physics-Some-Important-Theorems-in-QM)
+While helping a friend study for her graduate-level Physics qualification exam, I wrote this essay reviewing some of the fundamental mathematical ideas behind quantum mechanics.
+
 ##### (2005) [Relativistic Motion Under Constant Acceleration](https://github.com/wltrup/Physics-Relativistic-Motion-Under-Constant-Acceleration)
 You're on a spaceship traveling at a comfortable constant acceleration of one g. A staple of science-fiction, solved correctly and in detail.
 
