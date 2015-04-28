@@ -4,6 +4,9 @@ Here you'll find an assortment of technical essays I've written over the years e
 ##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-The-Electrostatic-Potential-Between-Two-Spherical-Conductors)
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres.
 
+##### (2007) [On The Stability Of Stacked Cylinders](https://github.com/wltrup/Physics-On-The-Stability-Of-Stacked-Cylinders)
+A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse.
+
 ##### (2005) [Second Quantization](https://github.com/wltrup/Physics-Second-Quantization)
 What is _Second Quantization_ and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory.
 
