@@ -1,6 +1,9 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2014) [The Equilibrium of a Tilted Soda Can](https://github.com/wltrup/Physics-The-Equilibrium-of-a-Tilted-Soda-Can)
+Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why that is possible.
+
 ##### (2014) [Relativity for non-physicists](https://github.com/wltrup/Physics-Relativity-for-non-physicists)
 An essay about light, the appearance of objects, and the theory of relativity, for non-physicists. 
 
