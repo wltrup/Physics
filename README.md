@@ -1,6 +1,9 @@
 # Physics
 A collection of technical essays I've written over the years, on various topics in Physics.
 
+##### (2004) [Time Independent Degenerate Perturbation Theory](https://github.com/wltrup/Physics-Time-Independent-Degenerate-Perturbation-Theory)
+Nothing here is new, of course, but the formalism of Time-Independent Perturbation Theory is done in detail, with an emphasis on the degenerate case.
+
 ##### (2004) [Visual Appearance of Relativistic Objects](https://github.com/wltrup/Physics-Visual-Appearance-of-Relativistic-Objects)
 Have you ever wondered what objects moving close to the speed of light would look like?
 
