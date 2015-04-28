@@ -1,7 +1,7 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation.
 
-##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-Second-Quantization)
+##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-The-Electrostatic-Potential-Between-Two-Spherical-Conductors)
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres.
 
 ##### (2005) [Second Quantization](https://github.com/wltrup/Physics-Second-Quantization)
