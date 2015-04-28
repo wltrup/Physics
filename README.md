@@ -1,6 +1,9 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation.
 
+##### (2005) [Relativistic Motion Under Constant Acceleration](https://github.com/wltrup/Physics-Relativistic-Motion-Under-Constant-Acceleration)
+Solving the _Helmholtz equation_ is a standard problem in almost any course in mathematical physics, and a simple way to introduce the notion of _Green functions_. I solve it here in full detail, explaining every step of the solution.
+
 ##### (2005) [The Green function for the Helmholtz operator](https://github.com/wltrup/Physics-The-Green-function-for-the-Helmholtz-operator)
 Solving the _Helmholtz equation_ is a standard problem in almost any course in mathematical physics, and a simple way to introduce the notion of _Green functions_. I solve it here in full detail, explaining every step of the solution.
 
