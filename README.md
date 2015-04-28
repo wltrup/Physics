@@ -1,5 +1,5 @@
 # Physics
-A collection of technical essays I've written over the years, on various topics in Physics.
+Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation.
 
 ##### (2004) [Time Independent Degenerate Perturbation Theory](https://github.com/wltrup/Physics-Time-Independent-Degenerate-Perturbation-Theory)
 Nothing here is new, of course, but the formalism of Time-Independent Perturbation Theory is done in detail, with an emphasis on the degenerate case.
