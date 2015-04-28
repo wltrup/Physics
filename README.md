@@ -7,7 +7,7 @@ Have you ever wondered what objects moving close to the speed of light would loo
 ##### (2004) [Projectile Motion](https://github.com/wltrup/Physics-Projectile-Motion)
 A summary of results of a detailed treatment of the _projectile motion problem_ in both one and two dimensions, including the effects of air resistance (using two different models for the velocity dependence).
 
-##### (1995) [Vertical Heavy Chain](https://github.com/wltrup/Physics-Vertical-Heavy-Chain)
+##### (1995) [Transverse Normal Modes of a Vertical Heavy Chain](https://github.com/wltrup/Physics-Transverse-Normal-Modes-of-a-Vertical-Heavy-Chain)
 Derivation of the differential equation, the transverse normal modes, and their frequencies, for a heavy chain hanging vertically.
 
 ##### (1993) [Planetary Transfer Orbits](https://github.com/wltrup/Physics-Planetary-Transfer-Orbits)
