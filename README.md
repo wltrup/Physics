@@ -4,14 +4,20 @@ Here you'll find an assortment of technical essays I've written over the years e
 ##### (2014) [The Equilibrium of a Tilted Soda Can](https://github.com/wltrup/Physics-The-Equilibrium-of-a-Tilted-Soda-Can)
 Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why and when that is possible.
 
+I've gotten quite far on this but it's still work in progress.
+
 ##### (2014) [Relativity for non-physicists](https://github.com/wltrup/Physics-Relativity-for-non-physicists)
-An essay about light, the appearance of objects, and the theory of relativity, for non-physicists. 
+An essay about light, the appearance of objects, and the theory of relativity, for non-physicists.
+
+The goal for this project is to turn it into a book on the theory of relativity, for non-physicists, and it's still work in progress.
 
 ##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-The-Electrostatic-Potential-Between-Two-Spherical-Conductors)
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres.
 
 ##### (2007) [On The Stability Of Stacked Cylinders](https://github.com/wltrup/Physics-On-The-Stability-Of-Stacked-Cylinders)
 A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse.
+
+I have a complete solution for the case of 2 layers of statcked cylinders and have yet to tackle the case of more layers so this is still work in progress.
 
 ##### (2005) [Second Quantization](https://github.com/wltrup/Physics-Second-Quantization)
 What is _Second Quantization_ and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory.
@@ -33,6 +39,8 @@ Have you ever wondered what objects moving close to the speed of light would loo
 
 ##### (2004) [Projectile Motion](https://github.com/wltrup/Physics-Projectile-Motion)
 A summary of results of a detailed treatment of the _projectile motion problem_ in both one and two dimensions, including the effects of air resistance (using two different models for the velocity dependence).
+
+I've gotten quite far on this but it's still work in progress. Originally written in 2004 based on some undergraduate work I did, now long gone.
 
 ##### (1995) [Transverse Normal Modes of a Vertical Heavy Chain](https://github.com/wltrup/Physics-Transverse-Normal-Modes-of-a-Vertical-Heavy-Chain)
 Derivation of the differential equation, the transverse normal modes, and their frequencies, for a heavy chain hanging vertically.
