@@ -17,7 +17,7 @@ A non-trivial exercise in Mathematical Physics and its applications to Classical
 ##### (2007) [On The Stability Of Stacked Cylinders](https://github.com/wltrup/Physics-On-The-Stability-Of-Stacked-Cylinders)
 A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse.
 
-I have a complete solution for the case of 2 layers of statcked cylinders and have yet to tackle the case of more layers so this is still work in progress.
+I have a complete solution for the case of 2 layers of stacked cylinders and have yet to tackle the case of more layers so this is still work in progress.
 
 ##### (2005) [Second Quantization](https://github.com/wltrup/Physics-Second-Quantization)
 What is _Second Quantization_ and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory.
