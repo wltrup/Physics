@@ -1,6 +1,12 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2020) [Some Thoughts on Dynamic Quantum Clustering](https://github.com/wltrup/Algs-DQC)
+
+A good friend of mine pointed me in the direction of a clustering algorithm called **Dynamic Quantum Clustering**, or **DQC** for short, which uses ideas from Quantum Mechanics to find the most likely cluster centers in a data set.
+
+I read the original papers and had a few insights of my own, which I'm summarizing in this essay. I may yet write a couple of actual research papers about these insights but that's a decision I haven't made yet.
+
 ##### (2014) [The Equilibrium of a Tilted Soda Can](https://github.com/wltrup/Physics-The-Equilibrium-of-a-Tilted-Soda-Can)
 Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why and when that is possible.
 
