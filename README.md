@@ -17,6 +17,11 @@ An essay about light, the appearance of objects, and the theory of relativity, f
 
 The goal for this project is to turn it into a book on the theory of relativity, for non-physicists, and it's still work in progress.
 
+##### (2010) [Topology, Particle Physics, and party tricks to blow your mind's socks off](https://github.com/wltrup/Physics-Spinors)
+An article I wrote in September 2010 for an online magazine while I was spending time with my family back in my home country. Sadly for me, the article didn't get picked up for publication and, so, it remained in the proverbial drawer until August 2020 when I came across [Sean Carrol](https://www.preposterousuniverse.com)'s excellent video series [The Biggest Ideas in the Universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX).
+
+Sean covers much of what I talk about in the article (and much more!) in the series' 17th episode, on [Matter](https://www.youtube.com/watch?v=dQWn9NzvX4s). Watching that episode, I thought it would be cool to resurrect the article since it goes through some material that Sean did not cover and it has some extra (and really cool) demonstrations of what the article and Sean's video are all about.
+
 ##### (2010) [ Electrostatic Potential Between Two Spherical Conductors](https://github.com/wltrup/Physics-The-Electrostatic-Potential-Between-Two-Spherical-Conductors)
 A non-trivial exercise in Mathematical Physics and its applications to Classical Electromagnetism, this essay solves in detail the problem of computing an analytical solution for the electrostatic potential between two conducting spheres.
 
