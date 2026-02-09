@@ -1,6 +1,11 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+
+##### (2021) [Bar Under Friction](https://github.com/wltrup/Physics-Bar-Under-Friction)
+
+I look into the conditions necessary for a unform bar with an internal spring mechanism to remain in place when forced against the wall of a hemispherical dome.
+
 ##### (2020) [Some Thoughts on Dynamic Quantum Clustering](https://github.com/wltrup/Algs-DQC)
 
 A good friend of mine pointed me in the direction of a clustering algorithm called **Dynamic Quantum Clustering**, or **DQC** for short, which uses ideas from Quantum Mechanics to find the most likely cluster centers in a data set.
