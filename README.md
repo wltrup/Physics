@@ -1,6 +1,9 @@
 # Physics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2024) [Planetary Ring Precession](https://github.com/wltrup/Physics-Planetary-Ring-Precession)
+
+I was bored on the last day of 2024 so I decided to show that a planet's ring system will generally align its plane with the planet's equatorial plane, due to a torque caused by the oblateness of real planets.
 
 ##### (2021) [Bar Under Friction](https://github.com/wltrup/Physics-Bar-Under-Friction)
 
