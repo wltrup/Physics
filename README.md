@@ -6,6 +6,10 @@ Here you'll find an assortment of technical essays I've written over the years e
 
 I look into the conditions necessary for a unform bar with an internal spring mechanism to remain in place when forced against the wall of a hemispherical dome.
 
+##### (2021) [The dynamics of a spinning flywheel attached to one of the arms of a scale](https://github.com/wltrup/Physics-Flywheel-On-A-Scale)
+
+In 2021, I came across a vide showing the surprising behavior of a spinning flywheel attached to one of the arms of a scale. The full video can be found on YouTube, [here](https://www.youtube.com/watch?v=OpCEJxO6V9g), but the behavior that caught my attention is [this](gyroscope_on_a_scale.mp4). So I set out to try and obtain the equations of motion that describe that behavior. It's still a work in progress.
+
 ##### (2020) [Some Thoughts on Dynamic Quantum Clustering](https://github.com/wltrup/Algs-DQC)
 
 A good friend of mine pointed me in the direction of a clustering algorithm called **Dynamic Quantum Clustering**, or **DQC** for short, which uses ideas from Quantum Mechanics to find the most likely cluster centers in a data set.
