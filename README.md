@@ -12,6 +12,13 @@ A good friend of mine pointed me in the direction of a clustering algorithm call
 
 I read the original papers and had a few insights of my own, which I'm summarizing in this essay. I may yet write a couple of actual research papers about these insights but that's a decision I haven't made yet.
 
+##### (2019) [3blue1brown Colliding Balls](https://github.com/wltrup/Physics-3b1b-Colliding-Balls)
+I consider a generalisation of the problem explored by Grant in his fascinating video: [The most unexpected answer to a counting puzzle](https://www.3blue1brown.com/?v=clacks).
+
+He considers the question of how many collisions happen between two balls and a wall. I look into the same question when the wall is replaced by another ball.
+
+This is work in progress. In fact, I know there's a mistake somewhere in my reasoning and I should try to find it and correct it.
+
 ##### (2014) [The Equilibrium of a Tilted Soda Can](https://github.com/wltrup/Physics-The-Equilibrium-of-a-Tilted-Soda-Can)
 Did you know that you can balance a partially filled soda can when it's tilted? Here I analyse the mathematics of why and when that is possible.
 
