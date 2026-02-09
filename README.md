@@ -12,6 +12,9 @@ Did you know that you can balance a partially filled soda can when it's tilted? 
 
 I've gotten quite far on this but it's still work in progress.
 
+##### (2014) [1-dim chain of coupled harmonic oscillators with fixed boundary conditions](https://github.com/wltrup/Physics-One-Dim-Oscillator-Chain)
+A variation on a typical problem discussed in intermediate-level undergraduate courses in Classical Mechanics, in the context of Lagrangian Mechanics and normal modes of oscillatory systems.
+
 ##### (2014) [Relativity for non-physicists](https://github.com/wltrup/Physics-Relativity-for-non-physicists)
 An essay about light, the appearance of objects, and the theory of relativity, for non-physicists.
 
