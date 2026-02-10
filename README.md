@@ -2,22 +2,21 @@
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
 ##### (2024) [Planetary Ring Precession](https://github.com/wltrup/Physics-Planetary-Ring-Precession)
-
 I was bored on the last day of 2024 so I decided to show that a planet's ring system will generally align its plane with the planet's equatorial plane, due to a torque caused by the oblateness of real planets.
 
 ##### (2021) [Bar Under Friction](https://github.com/wltrup/Physics-Bar-Under-Friction)
-
 I look into the conditions necessary for a unform bar with an internal spring mechanism to remain in place when forced against the wall of a hemispherical dome.
 
 ##### (2021) [The dynamics of a spinning flywheel attached to one of the arms of a scale](https://github.com/wltrup/Physics-Flywheel-On-A-Scale)
-
 In 2021, I came across a vide showing the surprising behavior of a spinning flywheel attached to one of the arms of a scale. The full video can be found on YouTube, [here](https://www.youtube.com/watch?v=OpCEJxO6V9g), but the behavior that caught my attention is [this](gyroscope_on_a_scale.mp4). So I set out to try and obtain the equations of motion that describe that behavior. It's still a work in progress.
 
 ##### (2020) [Some Thoughts on Dynamic Quantum Clustering](https://github.com/wltrup/Algs-DQC)
-
 A good friend of mine pointed me in the direction of a clustering algorithm called **Dynamic Quantum Clustering**, or **DQC** for short, which uses ideas from Quantum Mechanics to find the most likely cluster centers in a data set.
 
 I read the original papers and had a few insights of my own, which I'm summarizing in this essay. I may yet write a couple of actual research papers about these insights but that's a decision I haven't made yet.
+
+##### (2020) [The Newtonian 3-Body Problem](https://github.com/wltrup/Physics-3-Body-Problem)
+An introductory exploration of the Newtonian 3-body problem. This is work in progress.
 
 ##### (2019) [3blue1brown Colliding Balls](https://github.com/wltrup/Physics-3b1b-Colliding-Balls)
 I consider a generalisation of the problem explored by Grant in his fascinating video: [The most unexpected answer to a counting puzzle](https://www.3blue1brown.com/?v=clacks).
